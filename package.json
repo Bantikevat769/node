@@ -1,0 +1,18 @@
+{
+  "name": "banti",
+  "version": "1.0.0",
+  "description": "this my first project node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Banti kevat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "framer-motion": "^11.11.9",
+    "g": "^2.0.1",
+    "nodemon": "^3.1.7",
+    "qrcode.react": "^4.0.1"
+  }
+}
